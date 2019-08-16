@@ -7,7 +7,7 @@ package edu.escuelaing.arem.designprimer;
 
 /**
  *
- * @author 2112076
+ * @author 2112076.
  */
 import static spark.Spark.*;
 
